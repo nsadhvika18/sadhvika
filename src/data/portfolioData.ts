@@ -6,7 +6,7 @@ export const portfolioData: PortfolioData = {
     headline: 'B.Tech 2nd Year Student (Data Science) | Aspiring Data Analyst & Software Developer',
     shortBio: 'Second-year Data Science undergraduate at Nalla Narsimha Reddy Group of Institutions. Focused on mastering Python, SQL, Data Structures & Algorithms, and building practical problem-solving projects.',
     status: 'Seeking Future Internship Opportunities',
-    avatarUrl: '/src/assets/images/avatar_profile_1790673454170.jpg',
+    avatarUrl: '/src/assets/images/WhatsApp Image 2026-09-29 at 22.15.54.jpeg',
     resumeFileName: 'Sadhvika_N_Resume.pdf',
     socials: {
       email: 'nsadhvika18@gmail.com',
